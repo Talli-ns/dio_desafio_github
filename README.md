@@ -5,36 +5,36 @@ Casos de Uso de estudos do time
 ## Tallita Nascimento - Java
 
 ### Dominando Linguagem de Programação em java
-:white_check_mark: Variaveis, Tipos de Dados e Operadores Matematicos 
-:white_check_mark: Entendendo Metodos
-:white_check_mark: Introdução a Estruturas Condicionais 
-:white_check_mark: Estrutura de Repetição
-Trabalhando com Collections
-:white_check_mark:Programção Orientada a Objetos
-Debugging
-Tratamento de Exceções
-Testes Unitários com jUnit
+<p>:white_check_mark: Variaveis, Tipos de Dados e Operadores Matematicos 
+<p>:white_check_mark: Entendendo Metodos
+<p>:white_check_mark: Introdução a Estruturas Condicionais 
+<p>:white_check_mark: Estrutura de Repetição
+<p>Trabalhando com Collections
+<p>:white_check_mark:Programção Orientada a Objetos
+<p>Debugging
+<p>Tratamento de Exceções
+<p>Testes Unitários com jUnit
 
-## Dasafio
-:fire: Desafio de Código Básico
-:fire: Desafio de Código Intermediário 
-:fire: Criando um Banco Digital com Java e Orientação a Objetos
+### Dasafio
+<p>:fire: Desafio de Código Básico
+<p>:fire: Desafio de Código Intermediário 
+<p>:fire: Criando um Banco Digital com Java e Orientação a Objetos
 
 ### Banco de Dados Relacionais (SQL)
-Conceitos e Melhores Práticas com Bancos de Dados PostgreSQL
+<p>Conceitos e Melhores Práticas com Bancos de Dados PostgreSQL
 
 ### Avançando Tecnicamente com Spring Framework e API
-Principais protocolos de Comunicação da Internet
-Gerenciamento de Dependencias e Build em Java com Maven
-Introdução ao Spring Framework
-Simplificando Projetos Java com Spring Boot
-Imersão no Spring Framework com Spring Boot
-Criando uma API REST Documentada cin Spring Web Swagger
-Adicionando Segurança a uma API REST com Spring Security
+<p>Principais protocolos de Comunicação da Internet
+<p>Gerenciamento de Dependencias e Build em Java com Maven
+<p>Introdução ao Spring Framework
+<p>Simplificando Projetos Java com Spring Boot
+<p>Imersão no Spring Framework com Spring Boot
+<p>Criando uma API REST Documentada cin Spring Web Swagger
+<p>Adicionando Segurança a uma API REST com Spring Security
 
-## Desafios
-:fire: Explorando Padrões de Projetos na Prática com Java
-:fire: Realizando Deploy na Nuvem de um conjunto de API's Desenvolvidas em Spring Boot
+### Desafios
+<p>:fire: Explorando Padrões de Projetos na Prática com Java
+<p>:fire: Realizando Deploy na Nuvem de um conjunto de API's Desenvolvidas em Spring Boot
 
 
 
