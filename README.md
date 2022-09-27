@@ -5,8 +5,8 @@ Casos de Uso de estudos do time
 ## Tallita Nascimento - Java
 
 ### Dominando Linguagem de Programação em java
-<p>:white_check_mark: Variaveis, Tipos de Dados e Operadores Matematicos<br>
-<p>:white_check_mark: Entendendo Metodos
+<p>:white_check_mark: Variaveis, Tipos de Dados e Operadores Matematicos <br>
+<p><br>:white_check_mark: Entendendo Metodos
 <p>:white_check_mark: Introdução a Estruturas Condicionais 
 <p>:white_check_mark: Estrutura de Repetição
 <p>Trabalhando com Collections
