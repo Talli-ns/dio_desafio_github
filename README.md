@@ -9,10 +9,10 @@
 <p>:white_check_mark:Programção Orientada a Objetos
 <p>Debugging
 <p>Tratamento de Exceções
-<p>Testes Unitários com jUnit
+<p>Testes Unitários com jUnit <br>
 
 ### Banco de Dados Relacionais (SQL)
-<p>Conceitos e Melhores Práticas com Bancos de Dados PostgreSQL
+<p>Conceitos e Melhores Práticas com Bancos de Dados PostgreSQL <br>
 
 ### Avançando Tecnicamente com Spring Framework e API
 <p>Principais protocolos de Comunicação da Internet
@@ -21,7 +21,7 @@
 <p>Simplificando Projetos Java com Spring Boot
 <p>Imersão no Spring Framework com Spring Boot
 <p>Criando uma API REST Documentada cin Spring Web Swagger
-<p>Adicionando Segurança a uma API REST com Spring Security
+<p>Adicionando Segurança a uma API REST com Spring Security <br>
 
 ## Desafios
 <p>:fire: Desafio de Código Básico
