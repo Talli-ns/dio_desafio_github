@@ -11,11 +11,6 @@
 <p>Tratamento de Exceções
 <p>Testes Unitários com jUnit
 
-## Dasafio
-<p>:fire: Desafio de Código Básico
-<p>:fire: Desafio de Código Intermediário 
-<p>:fire: Criando um Banco Digital com Java e Orientação a Objetos
-
 ### Banco de Dados Relacionais (SQL)
 <p>Conceitos e Melhores Práticas com Bancos de Dados PostgreSQL
 
@@ -29,6 +24,9 @@
 <p>Adicionando Segurança a uma API REST com Spring Security
 
 ## Desafios
+<p>:fire: Desafio de Código Básico
+<p>:fire: Desafio de Código Intermediário 
+<p>:fire: Criando um Banco Digital com Java e Orientação a Objetos
 <p>:fire: Explorando Padrões de Projetos na Prática com Java
 <p>:fire: Realizando Deploy na Nuvem de um conjunto de API's Desenvolvidas em Spring Boot
 
